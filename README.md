@@ -1,1 +1,1 @@
-# BootCamp
+# SMU_FinTech_BootCamp
